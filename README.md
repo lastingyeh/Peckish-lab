@@ -1,0 +1,3 @@
+learing react-native to use redux,async api,navigation,iosTabs....
+
+ref by https://github.com/jlebensold/peckish
